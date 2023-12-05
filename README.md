@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saif-Uddin-93
-- 👀 I’m interested in ... Game Dev, DevOps and SecOps
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... Game Dev, Web Dev, DevOps and SecOps
+- 🌱 I’m currently learning ... Front End Dev
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... http://saifuddin.uk
 - Archived account ... https://github.com/Saif-Uddin-93-zz/Mock-Projects
