@@ -8,7 +8,7 @@
 Experience:
 edX Front End Developer Bootcamp
 
-<img src="https://drive.google.com/file/d/13In26cAyeWrqWmq_uAuFFDpZ2IMF5aKw/view" width="640" height="480" allow="autoplay"></img>
+<img src="https://lh3.googleusercontent.com/u/0/drive-viewer…ZhiXnZJD-9Z9W22ebDaNAxzaI5vjrTPbInuig=w2560-h1278" width="640" height="480" allow="autoplay"></img>
 
 <!---
 Saif-Uddin-93/Saif-Uddin-93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
