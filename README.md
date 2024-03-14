@@ -13,7 +13,7 @@
   Grade: <strong>97.35%</strong>
   <br />
   <br />
-  <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihaI4URm6zDzyNaWv1Q2HZ4nqov9KN5c8SGhWGmFMCIMVM-S5APpkKtd1ZhiXnZJD-9Z9W22ebDaNAxzaI5vjrTPbInuig=w2560-h1278" width="50%" height="50%" alt="Displaying edX Front-End Bootcamp certificate.jpg" aria-hidden="true">
+  <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihaI4URm6zDzyNaWv1Q2HZ4nqov9KN5c8SGhWGmFMCIMVM-S5APpkKtd1ZhiXnZJD-9Z9W22ebDaNAxzaI5vjrTPbInuig=w2560-h1278" width="75%" height="75%" alt="Displaying edX Front-End Bootcamp certificate.jpg" aria-hidden="true">
   </li>
 </ul>
 <!---
