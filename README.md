@@ -5,7 +5,7 @@
 - 📫 How to reach me ... http://saifuddin.uk
 - Archived account ... https://github.com/Saif-Uddin-93-zz/Mock-Projects
 
-<nav width=100vw style="display:flex; justify-content:center;"><a href="https://www.linkedin.com/in/uddinsaif/" target="_blank"><img src="./LINKEDIN_ICON_TRANSPARENT_1080.gif" width=80px></img></a></nav>
+<nav style="display:flex; justify-content:center; width:500px;"><a href="https://www.linkedin.com/in/uddinsaif/" target="_blank"><img src="./LINKEDIN_ICON_TRANSPARENT_1080.gif" width=80px></img></a></nav>
 
 <h1 style="text-decoration: underline">Experience:</h1>
 <ul>
