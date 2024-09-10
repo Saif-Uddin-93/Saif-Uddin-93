@@ -12,7 +12,7 @@
   <li>
   <a href="https://skillsbootcamp.credential.getsmarter.com/aeacf44d-4272-47a4-ae3e-f01f6ad44447">edX Front End Developer Bootcamp</a>
   <br />
-  Grade: <strong>97.35%</strong>
+  Project work: <a href="https://github.com/Saif-Uddin-93/flash-card-trivia"><strong>Game Hub</strong></a>, <a href="https://github.com/yuzbamaria/skills-tracker"><strong>Skills Tracker (React.js)</strong></a>
   <br />
   <br />
   <div style="display: flex; justify-content: center">
@@ -22,6 +22,8 @@
   </li>
   <li>
   <a href="https://www.linkedin.com/posts/uddinsaif_im-happy-to-share-that-ive-obtained-a-new-activity-7236337286685106176-Vg6u">Northcoders Data Engineering Developer Bootcamp</a>
+  <br />
+  Project work: <a href="https://github.com/Saif-Uddin-93/project-onyx"><strong>ETL Data project</strong></a>
   <br />
   <br />
   <div style="display: flex; justify-content: center">
