@@ -26,7 +26,7 @@
   <br />
   <div style="display: flex; justify-content: center">
     <!-- <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihaI4URm6zDzyNaWv1Q2HZ4nqov9KN5c8SGhWGmFMCIMVM-S5APpkKtd1ZhiXnZJD-9Z9W22ebDaNAxzaI5vjrTPbInuig=w2560-h1278" width="75%" height="75%" alt="Displaying edX Front-End Bootcamp certificate.jpg" aria-hidden="true"> -->
-    <img src="./Saif-Uddin-NC-DE-certificate.pdf" width="75%" height="75%" alt="Displaying Northcoders Data Engineering Bootcamp certificate.jpg" aria-hidden="true">
+    <img src="./Saif-Uddin-NC-DE-certificate.jpg" width="75%" height="75%" alt="Displaying Northcoders Data Engineering Bootcamp certificate.jpg" aria-hidden="true">
   </div>
   </li>
 </ul>
