@@ -1,11 +1,22 @@
-- 👋 Hi, I’m @Saif-Uddin-93
-- 👀 I’m interested in ... Game Dev, Web Dev, DevOps and SecOps
-- 🌱 I’m currently learning ... Full Stack Web Development and Data Engineering
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... http://saifuddin.uk
-- Archived account ... https://github.com/Saif-Uddin-93-zz/Mock-Projects
+- 👋 Hi, I’m Saif Uddin
+- 👀 I’m interested in: Game Dev, Web Dev, DevOps and SecOps
+- 🌱 I’m currently learning: Full Stack Web Development and Data Engineering
+- 📫 How to reach me **http://saifuddin.uk**
+- 🔭 Working on: **[Snake (Python)](https://github.com/Saif-Uddin-93/SnakeGame), [Django Project](https://github.com/Stray-Tech/FinanceManager)**
+- 🌍 Languages: **Python, Javascript, HTML, CSS, C#**
+- Archived account: https://github.com/Saif-Uddin-93-zz/Mock-Projects
 
-<nav style="display:flex; justify-content:center; width:500px;"><a href="https://www.linkedin.com/in/uddinsaif/" target="_blank"><img src="./LINKEDIN_ICON_TRANSPARENT_1080.gif" width=80px></img></a></nav>
+![](https://komarev.com/ghpvc/?username=Saif-Uddin-93&color=green) ![GitHub followers](https://img.shields.io/github/followers/Saif-Uddin-93) [<img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/uddinsaif/)  
+<!-- [<img src='https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white'>](https://codepen.io/collection/rxGpxw)  -->
+
+
+
+### 🛠 Tech Stack	
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)  <!-- [![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)](#) --> [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)  [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)  [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)  [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)  [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-306998?logo=python&logoColor=white)](#)  [![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)](#) ![Django Badge](https://img.shields.io/badge/Django-333333?logo=django&logoColor=white)
+
+<!--
+<nav style="display:flex; justify-content:center; width:500px;"><a href="https://www.linkedin.com/in/uddinsaif/" target="_blank"><img src="./LINKEDIN_ICON_TRANSPARENT_1080.gif" width=80px></img></a></nav
+-->
 
 <h1 style="text-decoration: underline">Experience:</h1>
 <ul>
