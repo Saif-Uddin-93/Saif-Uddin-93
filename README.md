@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Game Dev, Web Dev, DevOps and SecOps
 - 🌱 I’m currently learning: Full Stack Web Development and Data Engineering
 - 📫 How to reach me **http://saifuddin.uk**
-- 🔭 Working on: **[Snake (Python)](https://github.com/Saif-Uddin-93/SnakeGame), [Django Project](https://github.com/Stray-Tech/FinanceManager)**
+- 🔭 Working on: **[Django Project](https://github.com/Saif-Uddin-93/games-hub)**
 - 🌍 Languages: **Python, Javascript, HTML, CSS, C#**
 - Archived account: https://github.com/Saif-Uddin-93-zz/Mock-Projects
 
