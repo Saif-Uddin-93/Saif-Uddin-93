@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Full Stack Web Development and Data Engineering
 - 📫 How to reach me **http://saifuddin.uk**
 - 🔭 Working on: **[Django Project](https://github.com/Saif-Uddin-93/games-hub)**
-- 🌍 Languages: **Python, Javascript, HTML, CSS, C#**
+- 🌍 Languages: **Python, Javascript, C#**
 - Archived account: https://github.com/Saif-Uddin-93-zz/Mock-Projects
 
 ![](https://komarev.com/ghpvc/?username=Saif-Uddin-93&color=green) ![GitHub followers](https://img.shields.io/github/followers/Saif-Uddin-93) [<img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/uddinsaif/)  
